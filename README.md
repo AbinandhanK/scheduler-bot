@@ -14,7 +14,7 @@ No app switching. No calendar stress. Just message the bot and you're done.
 
 - Built with **Flask**, **Telegram Bot API**, and **Google Calendar API**
 
-## 🖼️ Preview
+## Preview
 
 ![Scheduler Bot Demo](img/demo.png)
 
