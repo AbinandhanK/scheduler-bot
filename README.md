@@ -13,6 +13,3 @@ No app switching. No calendar stress. Just message the bot and you're done.
 - `/show_events` → View your upcoming 5 events
 
 - Built with **Flask**, **Telegram Bot API**, and **Google Calendar API**
-
-...
-
