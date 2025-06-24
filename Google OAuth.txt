@@ -1,4 +1,0 @@
-<div style="font-family: Arial; font-size: 14px;">
-  Regards,<br>
-  Abinandhan<br>
-</div>
